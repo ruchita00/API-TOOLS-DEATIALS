@@ -1,0 +1,125 @@
+act as a marketing professional in swiggy your boss at swiggy has asked you to create a 10 page presentation on zomato gold(zomato gold was launched by zomato hust last week and it has been a super hit in the market) your boss needs to disuss needs to discuss about zomato gold 
+and its implications on swiggy's business
+
+
+//act as a speech coach and give me the exact script that i should be following in order to deliver the above presentation
+
+Slide 1: Introduction
+
+"Good [morning/afternoon/evening], everyone. Today, I'm excited to discuss a recent development that has stirred the waters of the food delivery industry - the introduction of Zomato Gold. This new offering has rapidly gained popularity in the market since its launch just last week."
+
+Slide 2: Zomato Gold Overview
+
+"Let's dive in and understand what makes Zomato Gold click. It offers exclusive dining and drinking benefits, structured membership tiers with varying pricing, and enticing deals with partner restaurants. Clearly, it's been a game-changer in how users approach food and dining experiences."
+
+Slide 3: Zomato Gold's Market Impact
+
+"Now, let's examine the impact Zomato Gold has made in the market. From skyrocketing user acquisition and retention to increased engagement with partner restaurants, the metrics paint a compelling picture of its success."
+
+Slide 4: SWOT Analysis - Zomato Gold Effect
+
+"We've conducted a SWOT analysis to better comprehend the competitive landscape. Zomato Gold brings strengths like user attraction and a vast restaurant network. However, we've identified potential weaknesses and areas of opportunity and threats that we need to address."
+
+Slide 5: Market Response
+
+"To truly understand the implications, we've been closely monitoring the market's response. Social media buzz, reviews, and shifting consumer behavior trends provide valuable insights into how users are reacting to this new entrant."
+
+Slide 6: Swiggy's Current Position
+
+"Now, let's take a moment to reflect on where Swiggy stands in this dynamic landscape. We have our own set of strengths, unique selling points, and a robust network of existing partnerships that form the foundation of our brand."
+
+Slide 7: Adapting Swiggy Plus
+
+"In response to Zomato Gold, we're enhancing our premium offering, Swiggy Plus. This involves not only improving existing benefits but also forging new partnerships and launching targeted marketing campaigns to ensure our users continue to enjoy an exceptional experience."
+
+Slide 8: Exclusive Restaurant Collaborations
+
+"To further solidify our position, we're expanding our culinary network. This includes onboarding premium partners, crafting customized deals and discounts, and promoting diversity in our offerings to cater to a wide range of consumer preferences."
+
+Slide 9: Loyalty Programs and Special Events
+
+"Our commitment to engaging our audience goes beyond transactions. We're revamping our loyalty programs, organizing exclusive member events, and rolling out seasonal promotions to create a lasting connection with our users."
+
+Slide 10: Future Roadmap
+
+"As we look ahead, our strategy involves continuous monitoring and adaptation to market dynamics. Technological enhancements and proactive customer engagement are key components of our vision to secure Swiggy's future in this evolving landscape."
+
+Closing Remarks
+
+"In conclusion, adapting to industry changes is crucial, and we are committed to not only meet but exceed our customers' expectations. Thank you for your attention, and I'm open to any questions or discussions you might have. Let's navigate this journey together."
+
+
+//Tool 
+gamma.app
+https://gamma.app/?lng=en
+
+india vs pakistan economies
+
+
+//chtgpt
+act marketing manager working in swigy zomato has just launched zomate gold give 10 slide outline on zomato for act marketing manager 
+
+give just title of it 
+paste this into gamma.app
+
+//Tool
+12ft.io
+https://12ft.io/
+//real article free which some website ask to pay 
+
+
+//how to get free scientific articles 
+https://sci-hub.se/
+
+
+extension 
+https://www.getmerlin.in/onboarding
+
+this extension helps to convert or explain complex into simple word
+
+//if you want to summarize complete video or somthing else 
+we have tool 
+with merline extension we can used on youtube it will show the summerize the video
+
+//this is for creating ai base image
+https://playgroundai.com/
+
+example 
+taj mahal infront of girl
+
+
+//practice the interview with speech coach
+https://app.yoodli.ai/
+
+//tool #7 
+
+//take alot of time to write codes want to develop expertise in other coding launguages?
+https://bard.google.com/
+
+//paste the promt over here what ever you want 
+give me javascript code binary search and print 1 test case
+
+//give me the same codes in java
+
+
+tool #8
+have a bug filled code and cant find whats wrong?
+https://debugcode.ai/
+
+tool9
+dont remember any excel formula but need it to get your work done?
+https://formula.dog/
+formula.dog
+
+find out whether a student has passed exam or failed the exam consist of 5 test marks are stored in cells A1 to A5 if the sum of all 5 test marks is grather than 200, then return pased else return failed 
+
+generate formula 
+
+=IF(SUM(A1:A5)>200,"passed","failed")
+
+tool 10 
+
+want to find out the emailid /phone number of any person on linkedln for free 
+
+Signalhire.com
+
